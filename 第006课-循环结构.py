@@ -1,6 +1,5 @@
 """
 用for-in实现1-365的求和
-versoin 0.1
 """
 total=0
 for i in range(1,366):
@@ -9,9 +8,6 @@ print(total)
 
 """
 打印乘法口诀表
-
-Version: 0.1
-Author: 骆昊
 """
 for i in range(1, 10):
     for j in range(1, i + 1):
