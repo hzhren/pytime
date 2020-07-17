@@ -13,3 +13,4 @@ elif score >= 60:
 else:
     grade = 'E'
 print('对应的等级是:', grade)
+print(f'对应的等级是: {grade}')
